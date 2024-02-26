@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/hcc-devprod-tenant/clowder/clowder@sha256:865738d167c6b8c3934548d5949319c4503d8ab04cd087baf48932c177d40639
+      - image: quay.io/redhat-user-workloads/hcc-devprod-tenant/clowder/clowder@sha256:4cea2d839b3326906070cf3eefdd3f9f46f972aa5374e9410edbc2ee2e29ea80
         name: container-image
         resources: {}
 status: {}
