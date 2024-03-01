@@ -23,7 +23,7 @@ spec:
         app.kubernetes.io/instance: clowder
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/hcc-devprod-tenant/clowder/clowder@sha256:1e10026ce1b4ebec645ae32fab36a904562073ee67876122101e0e856aa21c5a
+      - image: quay.io/redhat-user-workloads/hcc-devprod-tenant/clowder/clowder@sha256:4df632b1778236942facd4df75093ad9f068295454f2c95b0371aada29eb0c29
         imagePullPolicy: Always
         name: container-image
         ports:
